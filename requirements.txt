@@ -3,3 +3,10 @@ langchain
 langchain-openai
 llama-index
 llama-index-llms-openai-like
+langchain-community
+torch
+sentence_transformers
+faiss-cpu
+docx2txt
+transformers
+llama-index-embeddings-huggingface
