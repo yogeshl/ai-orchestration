@@ -10,3 +10,4 @@ faiss-cpu
 docx2txt
 transformers
 llama-index-embeddings-huggingface
+llama-index-tools-bing-search

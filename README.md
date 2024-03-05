@@ -13,3 +13,6 @@ conda create -p venv python==3.11.5 -y
 # Instance dependencies
 pip install -r requirements.txt
 
+# In order to set up Bing search, go to
+https://www.microsoft.com/en-us/bing/apis/bing-web-search-api
+
